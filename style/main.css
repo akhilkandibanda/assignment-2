@@ -1,0 +1,22 @@
+.app-navbar{
+    background: #3b5b96 !important;
+     padding-top: 0;
+    padding-bottom: 0;
+    
+}
+
+.app-navbar .navbar-brand{
+    color: #fff;
+    font-size: 38px;
+   
+}
+
+.signin-btn{
+        vertical-align: top;
+    margin-top: 23px;
+
+}
+
+.text-white{
+    color: white;
+}
